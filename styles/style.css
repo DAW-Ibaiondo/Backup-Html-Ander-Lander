@@ -88,6 +88,7 @@ img.imagenes {
 #pie{
 	height: 10%;
 	width: 100%;
+	text-align:center;
 	}
 }
 /* 481px—768px: iPads, Tablets */
@@ -121,6 +122,7 @@ img.imagenes {
 #pie{
 	height: 10%;
 	width: 100%;
+	text-align:center;
 	}
 }
 
@@ -157,6 +159,7 @@ img.imagenes {
 #pie{
 	height: 10%;
 	width: 100%;
+	text-align:center;
 	}
 }
 
