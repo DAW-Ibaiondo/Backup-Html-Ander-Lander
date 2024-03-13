@@ -34,7 +34,11 @@ h2{
 	color: black;
 	text-decoration: none;
 	}
-
+.mapainteractivo {
+	width: 175px;
+	height: 60px;
+	text-align: center;
+	}
 .imageneswebinteres {
 	width: 175px;
 	height: 60px;
