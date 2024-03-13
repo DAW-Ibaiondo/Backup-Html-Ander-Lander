@@ -47,11 +47,9 @@ h2{
 	text-align: center;
 	width: 100%;
 	}
-img.imagenes {
-	width:23%;
-	height:90%;
-	text-align: center;
-	margin-left: 38.5%;
+.imagennoticias {
+	width:100%;	
+	text-align: center;	
 	}
 	
 /*hasta 480px: Mobile devices*/
